@@ -10,13 +10,13 @@ To run: `cargo run --release [days...]`.
 
 ## Progress
 
-Currently: **0**⭐
+Currently: **2**⭐
 
-Total time: 0.000ms
+Total time: 0.4902ms
 
 | Day | Part One | Part Two | Time |
 |:---:|:---:|:---:|:---:|
-| Day 1: |  |  | 0.000ms |
+| [Day 1: Trebuchet?](https://adventofcode.com/2023/day/1) | ⭐ | ⭐ | 0.4902ms |
 | Day 2: |  |  | 0.000ms |
 | Day 3: |  |  | 0.000ms |
 | Day 4: |  |  | 0.000ms |
