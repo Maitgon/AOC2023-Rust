@@ -2,22 +2,20 @@
 
 ![crab banner](.images/banner.png)
 
-Solutions to the [Advent of Code](https://adventofcode.com/) challenges in Rust. This year I will try to solve the problems in Rust.
+Solutions to the [Advent of Code](https://adventofcode.com/) challenges in Rust. This year I will try to solve the problems in Rust. This is the [template](https://github.com/agubelu/AoC-rust-template) I'm using.
 
-This is the [template](https://github.com/agubelu/AoC-rust-template) I'm using.
-
-To run: `cargo run --release [days...]`.
+* To run: `cargo run --release [days...]`.
 
 ## Progress
 
-Currently: **2**⭐
+Currently: **4**⭐
 
-Total time: 0.4902ms
+Total time: 0.6277ms
 
 | Day | Part One | Part Two | Time |
 |:---:|:---:|:---:|:---:|
-| [Day 1: Trebuchet?](https://adventofcode.com/2023/day/1) | ⭐ | ⭐ | 0.4902ms |
-| Day 2: |  |  | 0.000ms |
+| [Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1) | ⭐ | ⭐ | 0.4902ms |
+| [Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2) | ⭐ | ⭐ | 0.1375ms |
 | Day 3: |  |  | 0.000ms |
 | Day 4: |  |  | 0.000ms |
 | Day 5: |  |  | 0.000ms |
