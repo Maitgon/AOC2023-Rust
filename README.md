@@ -8,16 +8,16 @@ Solutions to the [Advent of Code](https://adventofcode.com/) challenges in Rust.
 
 ## Progress
 
-* Currently: **6**⭐
+* Currently: **8**⭐
 
-* Total time: 2.1991ms
+* Total time: 2.4099ms
 
 | Day | Part One | Part Two | Time |
 |:---:|:---:|:---:|:---:|
 | [Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1) | ⭐ | ⭐ | 0.4902ms |
 | [Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2) | ⭐ | ⭐ | 0.1375ms |
 | [Day 3: Gear Ratios](https://adventofcode.com/2023/day/3) | ⭐ | ⭐ | 1.5714ms |
-| Day 4: |  |  | 0.000ms |
+| [Day 4: Scratchcards](https://adventofcode.com/2023/day/3) | ⭐ | ⭐ | 0.2108ms |
 | Day 5: |  |  | 0.000ms |
 | Day 6: |  |  | 0.000ms |
 | Day 7: |  |  | 0.000ms |
