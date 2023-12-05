@@ -8,7 +8,7 @@ Solutions to the [Advent of Code](https://adventofcode.com/) challenges in Rust.
 
 ## Progress
 
-* Currently: **8**⭐
+* Currently: **10**⭐
 
 * Total time: 2.6661ms
 
