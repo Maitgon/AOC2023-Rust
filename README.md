@@ -8,9 +8,9 @@ Solutions to the [Advent of Code](https://adventofcode.com/) challenges in Rust.
 
 ## Progress
 
-* Currently: **16**⭐
+* Currently: **18**⭐
 
-* Total time: 13.1831ms
+* Total time: 13.3556ms
 
 | Day | Part One | Part Two | Time |
 |:---:|:---:|:---:|:---:|
@@ -22,7 +22,7 @@ Solutions to the [Advent of Code](https://adventofcode.com/) challenges in Rust.
 | [Day 6: Wait For It](https://adventofcode.com/2023/day/6) | ⭐ | ⭐ | 0.0060ms |
 | [Day 7: Camel Cards](https://adventofcode.com/2023/day/7) | ⭐ | ⭐ | 5.5455ms |
 | [Day 8: Haunted Wasteland](https://adventofcode.com/2023/day/8) | ⭐ | ⭐ | 4.9655ms |
-| Day 9: |  |  | 0.000ms |
+| [Day 9: Mirage Maintenance](https://adventofcode.com/2023/day/9) | ⭐ | ⭐ | 0.1725ms |
 | Day 10: |  |  | 0.000ms |
 | Day 11: |  |  | 0.000ms |
 | Day 12: |  |  | 0.000ms |
