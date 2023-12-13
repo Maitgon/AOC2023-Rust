@@ -8,9 +8,9 @@ Solutions to the [Advent of Code](https://adventofcode.com/) challenges in Rust.
 
 ## Progress
 
-* Currently: **14**⭐
+* Currently: **16**⭐
 
-* Total time: 8.2176ms
+* Total time: 13.1831ms
 
 | Day | Part One | Part Two | Time |
 |:---:|:---:|:---:|:---:|
@@ -21,7 +21,7 @@ Solutions to the [Advent of Code](https://adventofcode.com/) challenges in Rust.
 | [Day 5: If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) | ⭐ | ⭐ | 0.2562ms |
 | [Day 6: Wait For It](https://adventofcode.com/2023/day/6) | ⭐ | ⭐ | 0.0060ms |
 | [Day 7: Camel Cards](https://adventofcode.com/2023/day/7) | ⭐ | ⭐ | 5.5455ms |
-| Day 8: |  |  | 0.000ms |
+| [Day 8: Haunted Wasteland](https://adventofcode.com/2023/day/8) | ⭐ | ⭐ | 4.9655ms |
 | Day 9: |  |  | 0.000ms |
 | Day 10: |  |  | 0.000ms |
 | Day 11: |  |  | 0.000ms |
