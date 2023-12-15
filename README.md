@@ -8,9 +8,9 @@ Solutions to the [Advent of Code](https://adventofcode.com/) challenges in Rust.
 
 ## Progress
 
-* Currently: **22**⭐
+* Currently: **24**⭐
 
-* Total time: 17.7290ms
+* Total time: 357.4093ms
 
 | Day | Part One | Part Two | Time |
 |:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ Solutions to the [Advent of Code](https://adventofcode.com/) challenges in Rust.
 | [Day 9: Mirage Maintenance](https://adventofcode.com/2023/day/9) | ⭐ | ⭐ | 0.1725ms |
 | [Day 10: Pipe Maze](https://adventofcode.com/2023/day/10) | ⭐ | ⭐ | 2.3717ms |
 | [Day 11: Cosmic Expansion](https://adventofcode.com/2023/day/11) | ⭐ | ⭐ | 2.0020ms |
-| Day 12: |  |  | 0.000ms |
+| [Day 12: Hot Springs](https://adventofcode.com/2023/day/12) | ⭐ | ⭐ | 339.6803ms |
 | Day 13: |  |  | 0.000ms |
 | Day 14: |  |  | 0.000ms |
 | Day 15: |  |  | 0.000ms |
