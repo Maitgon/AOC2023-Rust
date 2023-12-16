@@ -8,9 +8,9 @@ Solutions to the [Advent of Code](https://adventofcode.com/) challenges in Rust.
 
 ## Progress
 
-* Currently: **24**⭐
+* Currently: **26**⭐
 
-* Total time: 357.4093ms
+* Total time: 357.6493ms
 
 | Day | Part One | Part Two | Time |
 |:---:|:---:|:---:|:---:|
@@ -26,7 +26,7 @@ Solutions to the [Advent of Code](https://adventofcode.com/) challenges in Rust.
 | [Day 10: Pipe Maze](https://adventofcode.com/2023/day/10) | ⭐ | ⭐ | 2.3717ms |
 | [Day 11: Cosmic Expansion](https://adventofcode.com/2023/day/11) | ⭐ | ⭐ | 2.0020ms |
 | [Day 12: Hot Springs](https://adventofcode.com/2023/day/12) | ⭐ | ⭐ | 339.6803ms |
-| Day 13: |  |  | 0.000ms |
+| [Day 13: Point of Incidence](https://adventofcode.com/2023/day/13) | ⭐ | ⭐ | 0.2400ms |
 | Day 14: |  |  | 0.000ms |
 | Day 15: |  |  | 0.000ms |
 | Day 16: |  |  | 0.000ms |
