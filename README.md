@@ -8,9 +8,9 @@ Solutions to the [Advent of Code](https://adventofcode.com/) challenges in Rust.
 
 ## Progress
 
-* Currently: **28**⭐
+* Currently: **30**⭐
 
-* Total time: 404.0888ms
+* Total time: 404.5267ms
 
 | Day | Part One | Part Two | Time |
 |:---:|:---:|:---:|:---:|
@@ -28,7 +28,7 @@ Solutions to the [Advent of Code](https://adventofcode.com/) challenges in Rust.
 | [Day 12: Hot Springs](https://adventofcode.com/2023/day/12) | ⭐ | ⭐ | 339.6803ms |
 | [Day 13: Point of Incidence](https://adventofcode.com/2023/day/13) | ⭐ | ⭐ | 0.2400ms |
 | [Day 14: Parabolic Reflector Dish](https://adventofcode.com/2023/day/14) | ⭐ | ⭐ | 46.4395ms |
-| Day 15: |  |  | 0.000ms |
+| [Day 15: Lens Library](https://adventofcode.com/2023/day/15) | ⭐ | ⭐ | 0.4379ms |
 | Day 16: |  |  | 0.000ms |
 | Day 17: |  |  | 0.000ms |
 | Day 18: |  |  | 0.000ms |
