@@ -1,4 +1,5 @@
 use crate::{Solution, SolutionPair};
+use rayon::prelude::*;
 use std::fs::read_to_string;
 use std::collections::HashMap;
 
@@ -259,38 +260,26 @@ fn ways(spring: Vec<char>, ways: Vec<u64>) -> u64 {
 }
 
 fn part1(springs: &Vec<Spring>) -> u64 {
-    let mut acc = 0;
-
-    for spring in springs {
-        acc += ways(spring.springs.clone(), spring.ways.clone());
-    }
-
-    acc
+    springs.par_iter().map(|spring| ways(spring.springs.clone(), spring.ways.clone())).sum()
 }
 
 fn part2(springs: &Vec<Spring>) -> u64 {
-    let mut acc = 0;
+    springs.par_iter().map(|spring| ways(get_new_spring(&spring.springs), spring.ways.clone().repeat(5))).sum()
+}
 
-    for spring in springs {
-        let mut new_spring = spring.springs.clone();
+fn get_new_spring(spring: &Vec<char>) -> Vec<char> {
+    let mut new_spring: Vec<char> = spring.clone();
         // repeat the string 5 times
 
-        for _ in 0..4 {
-            new_spring.push('?');
+    for _ in 0..4 {
+        new_spring.push('?');
 
-            for c in spring.springs.clone() {
-                new_spring.push(c);
-            }
+        for c in spring {
+            new_spring.push(*c);
         }
-
-        let mut new_ways = spring.ways.clone();
-
-        new_ways = new_ways.repeat(5);
-
-        acc += ways(new_spring, new_ways);
     }
-
-    acc
+    
+    new_spring
 }
 
 fn is_viable(spring: &[char], ways: &Vec<u64>) -> bool {
