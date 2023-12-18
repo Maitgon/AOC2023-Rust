@@ -10,7 +10,7 @@ Solutions to the [Advent of Code](https://adventofcode.com/) challenges in Rust.
 
 * Currently: **30**⭐
 
-* Total time: 404.5267ms
+* Total time: 1001.4905ms
 
 | Day | Part One | Part Two | Time |
 |:---:|:---:|:---:|:---:|
@@ -29,7 +29,7 @@ Solutions to the [Advent of Code](https://adventofcode.com/) challenges in Rust.
 | [Day 13: Point of Incidence](https://adventofcode.com/2023/day/13) | ⭐ | ⭐ | 0.2400ms |
 | [Day 14: Parabolic Reflector Dish](https://adventofcode.com/2023/day/14) | ⭐ | ⭐ | 46.4395ms |
 | [Day 15: Lens Library](https://adventofcode.com/2023/day/15) | ⭐ | ⭐ | 0.4379ms |
-| Day 16: |  |  | 0.000ms |
+| [Day 16: The Floor Will Be Lava](https://adventofcode.com/2023/day/16) | ⭐ | ⭐ | 596.9638ms |
 | Day 17: |  |  | 0.000ms |
 | Day 18: |  |  | 0.000ms |
 | Day 19: |  |  | 0.000ms |
