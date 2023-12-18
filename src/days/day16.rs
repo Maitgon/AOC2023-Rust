@@ -1,5 +1,5 @@
 use crate::{Solution, SolutionPair};
-use core::panic;
+use rayon::prelude::*;
 use std::fs::read_to_string;
 use std::collections::HashSet;
 use std::collections::BTreeSet;
@@ -128,23 +128,24 @@ fn part1(input: &Input, initial_state: State) -> u64 {
 }
 
 fn part2(input: &Input) -> u64 {
-    let mut max = 0;
+    let mut starts: Vec<State> = Vec::new();
 
     for k in 0..input.len() {
-        max = max.max(part1(input, State { point: (k, 0), direction: Direction::Right }));
+        starts.push(State { point: (k, 0), direction: Direction::Down });
     }
 
     for k in 0..input[0].len() {
-        max = max.max(part1(input, State { point: (0, k), direction: Direction::Down }));
+        starts.push(State { point: (0, k), direction: Direction::Right });
     }
 
     for k in 0..input.len() {
-        max = max.max(part1(input, State { point: (k, input[0].len() - 1), direction: Direction::Left }));
+        starts.push(State { point: (k, input[0].len() - 1), direction: Direction::Up });
     }
 
     for k in 0..input[0].len() {
-        max = max.max(part1(input, State { point: (input.len() - 1, k), direction: Direction::Up }));
+        starts.push(State { point: (input.len() - 1, k), direction: Direction::Left });
     }
 
-    max
+    starts.par_iter().map(|start| part1(input, *start)).sum()
+
 }
