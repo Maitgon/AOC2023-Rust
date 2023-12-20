@@ -8,9 +8,9 @@ Solutions to the [Advent of Code](https://adventofcode.com/) challenges in Rust.
 
 ## Progress
 
-* Currently: **36**⭐
+* Currently: **38**⭐
 
-* Total time: 425.7952ms
+* Total time: 426.2344ms
 
 | Day | Part One | Part Two | Time |
 |:---:|:---:|:---:|:---:|
@@ -32,7 +32,7 @@ Solutions to the [Advent of Code](https://adventofcode.com/) challenges in Rust.
 | [Day 16: The Floor Will Be Lava](https://adventofcode.com/2023/day/16) | ⭐ | ⭐ | 96.1813ms |
 | [Day 17: Clumsy Crucible](https://adventofcode.com/2023/day/17) | ⭐ | ⭐ | 201.4284ms |
 | [Day 18: Lavaduct Lagoon](https://adventofcode.com/2023/day/18) | ⭐ | ⭐ | 0.4403ms |
-| Day 19: |  |  | 0.000ms |
+| [Day 19: Aplenty](https://adventofcode.com/2023/day/19) | ⭐ | ⭐ | 0.4392ms |
 | Day 20: |  |  | 0.000ms |
 | Day 21: |  |  | 0.000ms |
 | Day 22: |  |  | 0.000ms |
